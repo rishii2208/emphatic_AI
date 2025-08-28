@@ -16,7 +16,7 @@ This tool takes code review comments that might be perceived as harsh or blunt a
 
 ## Installation
 
-1. Clone this repository `git clone `https://github.com/rishii2208/emphatic_AI/``
+1. Clone this repository `git clone https://github.com/rishii2208/emphatic_AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. I have setted up a sample_input.json file for testing purpose, if you want you can change it accordingly.
 4. Run the tool: `python main.py --input-file sample_input.json`
