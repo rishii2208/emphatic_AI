@@ -1,6 +1,6 @@
 # Empathetic Code Reviewer
 
-Note: I have deliberately pushed .env file, so that judges dont have to waste time in generating .env file and API key. I will delete API keys over evaluation gets completed.Also, the keys are from free account just for evaluation purpose.
+Note: I have deliberately pushed .env file, so that evaluators dont have to waste time in generating .env file and API key. I will delete API keys once evaluation gets completed.Also, the keys are from free account just for evaluation purpose. SO PLEASE DON'T JUDGE ME.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This tool takes code review comments that might be perceived as harsh or blunt a
 
 ## Installation
 
-1. Clone this repository `git clone url`
+1. Clone this repository `git clone https://github.com/rishii2208/emphatic_AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. I have setted up a sample_input.json file for testing purpose, if you want you can change it accordingly.
 4. Run the tool: `python main.py --input-file sample_input.json`
