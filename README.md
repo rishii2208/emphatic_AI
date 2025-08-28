@@ -1,6 +1,6 @@
 # Empathetic Code Reviewer
 
-Note: I have deliberately pushed .env file, so that judges dont have to waste time in generating .env file and API key. I will delete API keys over evaluation gets completed.Also, the keys are from free account just for evaluation purpose.
+Note: I have deliberately pushed .env file, so that evaluators dont have to waste time in generating .env file and API key. I will delete API keys once evaluation gets completed.Also, the keys are from free account just for evaluation purpose. SO PLEASE DON'T JUDGE ME.
 
 ## Overview
 
